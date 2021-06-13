@@ -1,0 +1,26 @@
+body{
+    background-image: url(background.jpg);
+    background-size:cover;
+}
+
+#header{
+    width: 100%;
+    font-size:25px;
+margin-top: 0%;
+}
+
+#footlocker{
+width: 100%;
+position: fixed;
+bottom: 0%;
+font-size:15px;
+line-height: 1.8;
+
+}
+canvas{
+    background-color: purple;
+border-radius: 22px;
+border-color: black;
+border-width: 4px;
+border-style: solid;
+}
