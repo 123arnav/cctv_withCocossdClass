@@ -17,10 +17,14 @@ font-size:15px;
 line-height: 1.8;
 
 }
+@keyframes mymove {
+    50% {box-shadow: 10px 20px 30px blue;}
+  }
 canvas{
     background-color: purple;
 border-radius: 22px;
 border-color: black;
 border-width: 4px;
 border-style: solid;
+animation: mymove 5s infinite;
 }
