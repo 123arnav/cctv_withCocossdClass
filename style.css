@@ -18,7 +18,7 @@ line-height: 1.8;
 
 }
 @keyframes mymove {
-    50% {box-shadow: 10px 20px 30px blue;}
+    50% {box-shadow: 40px 40px 40px palevioletred}
   }
 canvas{
     background-color: purple;
